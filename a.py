@@ -1,5 +1,8 @@
-import tkinter 
+# import Tkinter 
+# from Tkinter import *
+import tkinter
 from tkinter import *
+from tkinter import ttk
 from textblob import TextBlob
 import streamlit
 
